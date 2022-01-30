@@ -1,1 +1,2 @@
-# Stige-Simon-game
+# Simon-game
+Made undermy internship at Stige
