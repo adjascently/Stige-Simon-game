@@ -1,2 +1,2 @@
 # Simon-game
-Made undermy internship at Stige
+Made during my internship at Stige
